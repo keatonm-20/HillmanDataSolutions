@@ -21,7 +21,15 @@ Calculated the median billing amount per quarter to detect financial trends and 
 - Power BI for data visualization
 
 ## Insights & Findings
+![pic5](https://github.com/user-attachments/assets/d344153e-ba46-46a5-b347-dc005912d4ab)
+### Quarterly Fluctuations
+The median billing amount started at a lower value in Q1.
+A significant increase was observed in Q2, indicating a rise in billing activity.
+Q3 experienced a decline, suggesting a possible seasonal slowdown.
+A sharp surge occurred in Q4, reaching the highest median billing amount.
 
-### February Outlier
-![pic3](https://github.com/user-attachments/assets/d4d0bc8c-6e5a-4b34-b450-7ec3b4c0545d)
-An analysis of discharge trends over multiple years revealed significant fluctuations in patient discharge patterns. Some years exhibited higher discharge rates in specific months, while others saw declines.
+### Trend Observations
+
+The data suggests seasonal variations in billing amounts, with notable peaks in Q2 and Q4.
+The dip in Q3 followed by a sharp rise in Q4 could indicate cyclical business trends or market influences.
+

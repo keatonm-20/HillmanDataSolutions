@@ -5,3 +5,22 @@ Hillman Data Solutions is a data collection company that collaborates with hospi
 
 ## Executive Summary
 This dataset analysis provides key insights into patient demographics, prevalent medical conditions, hospital admission trends, and billing patterns. The dataset comprises 54,966 patient records, offering a comprehensive view of healthcare utilization. The gender distribution is nearly equal, with 27,496 male and 27,470 female patients. The average patient age is 51.5 years, spanning a wide range from 13 to 89 years, highlighting the diverse age groups seeking medical care. These insights help identify trends in patient demographics and healthcare needs, supporting data-driven decision-making for improved medical services and resource allocation.
+
+## Key Features
+### Trend Analysis:
+Identified which doctors have the highest patient volume, uncovering patterns in patient distribution.
+### Admission vs Discharge Patterns:
+Analyzed yearly trends in hospital admissions compared to discharge counts to assess patient flow.
+### Monthly Patient Volume:
+Conducted a breakdown of patient count by month to identify seasonal variations or operational bottlenecks.
+### Billing Insights:
+Calculated the median billing amount per quarter to detect financial trends and potential abnormalities in healthcare costs.
+
+### Tools Used:
+- Excel & Python for data cleaning
+- Power BI for data visualization
+
+## Insights & Findings
+
+### Febraury
+![alt text](https://github.com/keaton)

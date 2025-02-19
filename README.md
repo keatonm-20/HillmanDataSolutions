@@ -23,13 +23,13 @@ Calculated the median billing amount per quarter to detect financial trends and 
 ## Insights & Findings
 ![pic5](https://github.com/user-attachments/assets/d344153e-ba46-46a5-b347-dc005912d4ab)
 ### Quarterly Fluctuations
-The median billing amount started at a lower value in Q1.
-A significant increase was observed in Q2, indicating a rise in billing activity.
-Q3 experienced a decline, suggesting a possible seasonal slowdown.
-A sharp surge occurred in Q4, reaching the highest median billing amount.
+- The median billing amount started at a lower value in Q1.
+- A significant increase was observed in Q2, indicating a rise in billing activity.
+- Q3 experienced a decline, suggesting a possible seasonal slowdown.
+- A sharp surge occurred in Q4, reaching the highest median billing amount.
 
 ### Trend Observations
 
-The data suggests seasonal variations in billing amounts, with notable peaks in Q2 and Q4.
-The dip in Q3 followed by a sharp rise in Q4 could indicate cyclical business trends or market influences.
+- The data suggests seasonal variations in billing amounts, with notable peaks in Q2 and Q4.
+- The dip in Q3 followed by a sharp rise in Q4 could indicate cyclical business trends or market influences.
 

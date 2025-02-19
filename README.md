@@ -22,5 +22,6 @@ Calculated the median billing amount per quarter to detect financial trends and 
 
 ## Insights & Findings
 
-### Febraury
-![alt text](https://github.com/keaton)
+### February Outlier
+([https://github.com/keatonm-20](https://github.com/keatonm-20/HillmanDataSolutions/blob/main/img/pic3.png))
+An analysis of discharge trends over multiple years revealed significant fluctuations in patient discharge patterns. Some years exhibited higher discharge rates in specific months, while others saw declines.
